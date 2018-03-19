@@ -1,0 +1,43 @@
+h1 {
+    text-align: center;
+    color: White;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 375%;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 300%;
+
+}
+
+p {
+    text-align: left;
+    font-family: verdana;
+    font-size: 200%;
+    color: white;
+    margin: 0;
+}
+
+.text {
+    background-color: black;
+    margin: 25px;
+    padding: 20px;
+    border: 25px solid grey;
+
+}
+
+a {
+    font-size: 200%;
+    color: green;
+}
+
+body {
+    background-color: #006600;
+}
+
+#Header {
+    background-color: black;
+}

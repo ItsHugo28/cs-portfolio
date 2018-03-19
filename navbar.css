@@ -1,0 +1,21 @@
+
+.navbar {
+    background-color: black;
+}
+
+.navbar a {
+    color: white;
+    border: 5px solid grey;
+    font-family: 'Fjalla One',
+    sans-serif;
+    font-size: 20px;
+    display: inline-block;
+    text-decoration: none;
+    padding: 5px 10px;
+}
+.navbar a:hover {
+    background-color: green;
+}
+.navbar li {
+    list-style: none;
+}
